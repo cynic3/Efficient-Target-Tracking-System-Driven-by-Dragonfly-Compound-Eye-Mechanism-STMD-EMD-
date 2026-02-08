@@ -151,10 +151,10 @@ Localization accuracy evaluated using Location Error (LE). The following figures
 ---
 
 ## Team
-- Niu Xinyue (22120882)
-- Shen Wenbo (22121156)
-- Liang Haiqi (22121791)
-- Huo Shengyu (22121249)
+- Niu Xinyue
+- Shen Wenbo
+- Liang Haiqi
+- Huo Shengyu
 
 **Supervisor**: Liu Shupeng  
 **Date**: May 12, 2025  
