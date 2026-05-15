@@ -155,7 +155,7 @@ Localization accuracy evaluated using Location Error (LE). The following figures
 - Shen Wenbo
 - Liang Haiqi
 - Huo Shengyu
-
+- **PS**: This repository is a collaborative course project portfolio, and the full thesis work belongs to the primary author Niu Xinyue.
 **Supervisor**: Liu Shupeng  
 **Date**: May 12, 2025  
 **Course**: Micro‑Noninvasive Diagnosis & Treatment Instruments and Technology (12295009) | Shanghai University Spring 2025‑2026
