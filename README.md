@@ -163,5 +163,7 @@ Localization accuracy evaluated using Location Error (LE). The following figures
 
 ---
 > Source code and detailed experimental data are available in this repository. Star ⭐ and Fork 🔀 are welcome!
+---
+**License Note**: The code in this repository is for educational and demonstration purposes only. No part of this project may be reproduced or used for commercial or academic publication without prior written permission.
 
 ---
